@@ -1,4 +1,4 @@
-export interface Covid19{
+export class Covid19{
   Country: string;
   CountryCode: string;
   Province: string;
